@@ -1,2 +1,5 @@
 "# Staffing Forecast Optimization" 
 "# staffing-forcast-optimization" 
+"End to End Pipeline to forcast hourly demand and computes optimal staffing schedules"
+"Tools Used: Jupyter Notebook, Kaggle"
+"Expected Output (Staffing Schedule)"
