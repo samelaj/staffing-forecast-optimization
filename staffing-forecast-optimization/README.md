@@ -1,2 +1,22 @@
 "# Staffing Forecast Optimization" 
-"# staffing-forcast-optimization" 
+"## Project Overview"
+"End to End Pipeline to forcast hourly demand and computes optimal staffing schedules"
+"## Methods:"
+" - Time series forcasting"
+" - Optimization (linear & integer programming)"
+" - Simultaion to evaluate staffing policies"
+
+"##Tools:"
+" - Python"
+" - NumPy, pandas"
+" - matplotlib"
+" - scipy / OR tools"
+
+"## Project Structure"
+" data/ # raw & processed data"
+" notebooks/ # exploratory analysis"
+" src/ # reusable functions"
+" results/ # figures and outputs"
+
+"## Status"
+" IN PROGRESS"
